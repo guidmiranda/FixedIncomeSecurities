@@ -1,11 +1,3 @@
-#------------------------------------------------------------------------ #
-#     Fixed Income Securities
-#     NOVA IMS
-#     Group Project: Carlos Cardoso | 20211220   Carlota Reis | 20211208   
-#                   Guilherme Miranda | 20210420    Mariana Garcia | 20210838 
-#------------------------------------------------------------------------ #
-
-
 rm(list = ls())
 library(pacman)
 p_load(tidyverse)
